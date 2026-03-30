@@ -16,24 +16,7 @@ The first release (**v1.00**) includes one feature. Shortly after release, a bug
 ## Commit Graph
 
 ```
-* F2 - feature 2 wip (feature2, rebased onto develop after hotfix)
-* M  - Merge branch 'hotfix1' into develop
-|\
-| * K  - fix feature 1 bug Y (hotfix1)
-* | L  - Merge branch 'hotfix1' (tag: v1.01)
-|/
-* I  - Merge branch 'release1' into develop
-|\
-| * G  - fix feature 1 bug X (release1)
-* | H  - Merge branch 'release1' (tag: v1.00)
-|/
-* E  - Merge branch 'feature1' into develop
-|\
-| * D  - add feature 1 (feature1)
-| * C  - feature 1 wip
-|/
-* B  - add fileA.txt (develop)
-* A  - add README.md (master)
+![Commit Graph](ss/commit-graph.png)
 ```
 
 ## Branches
