@@ -16,7 +16,7 @@ The first release (**v1.00**) includes one feature. Shortly after release, a bug
 ## Commit Graph
 
 ```
-![Commit Graph](ss/commit-graph.png)
+![Commit Graph](SS/commit-graph.png)
 ```
 
 ## Branches
